@@ -1,7 +1,7 @@
 export default function Home(){
     return(
         <main>
-            {/* <h1>Oie ta indo?</h1> */}
+            {/* <h1>Mais que Café</h1> */}
         </main>
     );
 }
