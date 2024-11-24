@@ -19,7 +19,7 @@ export default function Home() {
                         Qual a torra que prefere? Starbucks® Torra Clara, Torra Média ou Torra Escura? Estas são as torras que fazem parte dos níveis de torra Starbucks®.
                     </p>
 
-                    <button aria-label="Saiba mais">Saiba mais</button>
+                    <button aria-label="Saiba mais">SAIBA MAIS</button>
                 </StylePrimeiraSessao>
             </section>
         </main>
