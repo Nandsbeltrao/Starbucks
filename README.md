@@ -32,12 +32,14 @@ Este é um projeto de interface inspirado no Starbucks, desenvolvido com **React
 │   └── index.js                # Entrada principal do React
 ├── package.json                # Dependências e scripts do projeto
 └── README.md                   # Documentação do projeto
+
 💄 Funcionalidades
 Home: Página inicial com uma introdução ao projeto e destaque para o tema Starbucks.
 Novidades: Página dedicada a destacar novos produtos ou iniciativas.
 Sobre: Página que apresenta mais informações sobre o Starbucks e a proposta do projeto.
 Navegação Dinâmica: Implementada com o React Router para transições rápidas entre páginas.
 Estilização Modular: Utilizando styled-components para criar um design moderno e escalável.
+
 🛠️ Como Executar o Projeto
 Clone este repositório:
 
@@ -55,24 +57,6 @@ bash
 Copiar código
 npm start
 Abra o navegador e acesse:
-
-arduino
-Copiar código
-http://localhost:3000
-📸 Demonstração
-🏠 Página Home
-Apresenta uma introdução visual ao tema Starbucks.
-
-✨ Página Novidades
-Destaque para lançamentos e novidades.
-
-ℹ️ Página Sobre
-Informações sobre a inspiração e o propósito do projeto.
-
-🔗 Links Relacionados
-⚛️ React - Documentação Oficial
-🎨 Styled-components
-🛣️ React Router
 
 
 🖋️ Licença
