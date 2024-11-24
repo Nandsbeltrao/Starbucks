@@ -5,7 +5,7 @@ const font = "'Poppins', sans-serif";
 export const StyleMain = styled.main`
   background-color: #1E3932; 
   min-height: 100vh; 
-  margin-top: 5.6rem;
+  margin-top: 3.5rem;
   padding: 12rem; 
 `;
 
