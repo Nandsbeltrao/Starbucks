@@ -3,7 +3,7 @@ import styled from "styled-components";
 const font = "'Poppins', sans-serif";
 
 export const StyledSection = styled.section`
-  margin-top: 12.6rem;
+  margin-top: 9.8rem;
 `;
 
 export const Title = styled.h1`
@@ -11,6 +11,7 @@ export const Title = styled.h1`
   font-weight: 300;
   font-size: 4.8rem;
   margin-left: 15rem;
+  
 
   span {
     display: block;
@@ -55,27 +56,37 @@ export const StyleSegundaSessao = styled.section`
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 5rem;
+  margin-top: 14rem;
+  margin-left: 6rem;
+  
 `;
 
 export const StyledImagem = styled.img`
     position: relative;
-    top:-36.3rem;
-    left: 96%;
+    top:-40rem;
+    left: 102%;
     z-index: 2; 
-    width: 32vw;
+    width: 30vw;
 
 `;
 
 export const StyleEllipse = styled.img`
     position: absolute;
-    top: -34.5rem;
+    top: -33rem;
     left: 80%;
     transform: translateX(-50%);
-    width: 47vw;
+    width: 38vw;
     z-index: 1; 
 `;
 
-export const Stylecafes = styled.ul`
+export const StyleCafe = styled.div`
+
+    margin-top: -44.7rem;
+    margin-left: 53.5rem;
+    position: relative;
+    top: -2rem;
     
+    img:hover{
+      transform: translateY(-10%) rotate(10deg);
+    }
 `;

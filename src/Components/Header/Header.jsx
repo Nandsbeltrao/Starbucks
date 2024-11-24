@@ -1,5 +1,7 @@
-const Logo = "/logo 1.png";
-import { StyleHeader, StyleImg, StyleUl, StyleLink } from "./Style";
+import Logo from "/logo 1.png";
+import { 
+  StyleHeader, StyleImg, StyleUl, StyleLink 
+} from "./Style";
 
 export default function Header() {
   return (
