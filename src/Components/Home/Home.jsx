@@ -27,7 +27,7 @@ import {
   export default function Home() {
     return (
       <main>
-        {/* Primeira Sessão */}
+
         <StyledSection>
           <Title>
             <span>Mais que Café</span>
@@ -35,7 +35,6 @@ import {
               Isso é <strong>Starbucks</strong>
             </span>
           </Title>
-  
           <StyleParagrafo>
             A Starbucks oferece uma variedade de cafés de alta qualidade. Alguns dos cafés mais populares incluem o Caffè Americano, o Cappuccino, o Latte Macchiato e o Espresso. Além disso, a Starbucks oferece bebidas quentes e frias, doces diferenciados e sanduíches.
           </StyleParagrafo>
@@ -43,7 +42,6 @@ import {
           <StyleButton>SAIBA MAIS</StyleButton>
         </StyledSection>
   
-        {/* Segunda Sessão */}
         <StyleSegundaSessao>
           <figure>
             <StyledImagem src={CafePrincipal1} alt="Café principal com sabor laranja" />
@@ -51,7 +49,6 @@ import {
           </figure>
         </StyleSegundaSessao>
   
-        {/* Terceira Sessão */}
         <StyleCafe>
             <img src={miniaturaCafe3} alt="Miniatura do café laranja" />
             <img src={miniaturaCafe1} alt="Miniatura do café vermelho" />

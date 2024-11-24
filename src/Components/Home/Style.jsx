@@ -4,6 +4,7 @@ const font = "'Poppins', sans-serif";
 
 export const StyledSection = styled.section`
   margin-top: 9.8rem;
+  
 `;
 
 export const Title = styled.h1`
