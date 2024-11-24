@@ -23,14 +23,14 @@ export const StyleUl = styled.ul`
     list-style: none;
     justify-content: space-evenly;
     width: 28vw;
-    margin-top: 7rem;
+    margin-top: 5rem;
 
 `;
 
 export const StyleImg = styled.img`
-    margin-top: 8.7rem;
+    margin-top: 5.2rem;
     margin-left: 2rem;
-    width: 6.7vw;
+    width: 6vw;
 
 `;
 
