@@ -88,6 +88,6 @@ export const StyleCafe = styled.div`
     top: -2rem;
     
     img:hover{
-      transform: translateY(-10%) rotate(10deg);
+      transform: translateY(-10%) rotate(12deg);
     }
 `;
