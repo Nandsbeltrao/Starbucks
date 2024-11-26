@@ -1,6 +1,7 @@
 # ☕ Starbucks - Desafio Final Reactjs VNW
 
-Este é um projeto de interface inspirado no Starbucks, desenvolvido com **React** e estilizado com **styled-components**. O aplicativo apresenta páginas de **Home**, **Novidades** e **Sobre**, com navegação integrada por meio do **React Router**.
+Este é um projeto de interface inspirado no Starbucks, desenvolvido com React e estilizado com styled-components. O aplicativo apresenta páginas de Home, Novidades e Sobre, com navegação integrada por meio do React Router.
+Além disso, o projeto é totalmente responsivo, garantindo uma experiência de navegação otimizada em diversos dispositivos e tamanhos de tela. 📱💻
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/5d74f6fa-b22c-456e-a786-6b223c2fdf35" width="700">
@@ -12,6 +13,7 @@ Este é um projeto de interface inspirado no Starbucks, desenvolvido com **React
 - 🎨 **Styled-components**: Biblioteca para estilização CSS-in-JS, que permite componentes estilizados de forma modular.
 - 🛣️ **React Router**: Para navegação entre páginas.
 - 🌐 **HTML5 & CSS3**: Estrutura básica e personalizações adicionais.
+- 📱 Responsividade: Layout adaptável para diferentes dispositivos e tamanhos de tela.
 
 ## 📁 Estrutura de Arquivos
 
@@ -34,11 +36,13 @@ Este é um projeto de interface inspirado no Starbucks, desenvolvido com **React
 └── README.md                   # Documentação do projeto
 
 💄 Funcionalidades
+
 Home: Página inicial com uma introdução ao projeto e destaque para o tema Starbucks.
 Novidades: Página dedicada a destacar novos produtos ou iniciativas.
 Sobre: Página que apresenta mais informações sobre o Starbucks e a proposta do projeto.
 Navegação Dinâmica: Implementada com o React Router para transições rápidas entre páginas.
 Estilização Modular: Utilizando styled-components para criar um design moderno e escalável.
+Responsividade: O design é responsivo, funcionando bem em dispositivos móveis e desktops.
 
 🛠️ Como Executar o Projeto
 Clone este repositório:
