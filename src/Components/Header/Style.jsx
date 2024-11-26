@@ -16,6 +16,11 @@ export const StyleHeader = styled.header`
     padding: 0 10%;
     font-family: ${font};
 
+    @media (max-width: 600px) {
+        flex-direction: rown; 
+        height: auto; 
+        padding: 2rem; 
+    }
 `;
 
 export const StyleUl = styled.ul`
@@ -25,6 +30,11 @@ export const StyleUl = styled.ul`
     width: 28vw;
     margin-top: 5rem;
 
+    @media (max-width: 600px) {
+        flex-direction: rown; 
+        width: 61vw; 
+        margin-top: 1.7rem; 
+    }
 `;
 
 export const StyleImg = styled.img`
@@ -32,6 +42,11 @@ export const StyleImg = styled.img`
     margin-left: 2rem;
     width: 6vw;
 
+    @media (max-width: 600px) {
+        margin-top: 2rem; 
+        margin-left: -0.6rem;
+        width: 15vw; 
+    }
 `;
 
 export const StyleLink = styled(Link)`
@@ -45,4 +60,8 @@ export const StyleLink = styled(Link)`
         color: ${colors.hover};
     }
 
+    @media (max-width: 600px) {
+        font-size: 1.1rem; 
+        margin: 0.5rem;
+    }
 `;
